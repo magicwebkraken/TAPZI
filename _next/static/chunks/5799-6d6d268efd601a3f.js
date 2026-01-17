@@ -448,7 +448,7 @@
       var f = a(30285),
         w = a(24357),
         j = a(82974);
-      let b = "0xcomingsoon";
+      let b = "0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6";
       var y = a(27719),
         L = a(66766),
         z = a(10549);

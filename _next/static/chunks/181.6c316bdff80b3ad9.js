@@ -2965,7 +2965,7 @@
                   "rounded-lg bg-primary-violet text-white h-12 lg:h-14 text-lg lg:text-xl font-semibold px-6 md:px-10 hover:bg-primary-violet/80",
                 children: (0, s.jsxs)(r(), {
                   target: "_blank",
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6",
                   children: ["Buy $TAPZI"],
                 }),
               }),

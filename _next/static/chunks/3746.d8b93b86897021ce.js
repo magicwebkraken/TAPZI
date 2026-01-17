@@ -2780,7 +2780,7 @@ Please see https://www.smartwallet.dev/guides/tips/popup-tips#cross-origin-opene
                   return [
                     "bytes32",
                     null == o
-                      ? "0xcomingsoon00000000000000000000000000"
+                      ? "0x27e0f917d9df4d1febc7593bffb8bb09c63e44d600000000000000000000000000"
                       : s.keccak(this.encodeData(t, o, n, a)),
                   ];
                 if (void 0 === o)

@@ -433,17 +433,17 @@
                     }),
                     (0, n.jsx)("span", { children: "Contract : " }),
                     (0, n.jsx)("a", {
-                      href: "https://etherscan.io/token/0xcomingsoon",
+                      href: "https://etherscan.io/token/0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6",
                       className:
                         "text-blue-500 hover:text-blue-600 hover:underline",
                       children: (0, o.O)(
-                        "0xcomingsoon"
+                        "0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6"
                       ),
                     }),
                     (0, n.jsx)(j.$, {
                       disabled: e,
                       onClick: () =>
-                        t("0xcomingsoon"),
+                        t("0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6"),
                       size: "icon",
                       variant: "ghost",
                       className: "h-5 w-5",

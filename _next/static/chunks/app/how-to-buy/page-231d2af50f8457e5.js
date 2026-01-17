@@ -88,7 +88,7 @@
                   }),
                 }),
                 (0, l.jsx)(n(), {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6",
                   children: (0, l.jsxs)(a.$, {
                     className:
                       "rounded-lg bg-white/30 text-white h-12 lg:h-14 text-lg lg:text-xl font-semibold px-6 md:px-10 md:min-w-52 hover:bg-white/40",
@@ -638,7 +638,7 @@
                             ],
                           }),
                           (0, l.jsx)(p(), {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6",
                             children: (0, l.jsxs)(h.$, {
                               type: "button",
                               disabled: !c || !L,
@@ -1052,17 +1052,17 @@
                     }),
                     (0, l.jsx)("span", { children: "Contract : " }),
                     (0, l.jsx)("a", {
-                      href: "https://etherscan.io/token/0xcomingsoon",
+                      href: "https://etherscan.io/token/0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6",
                       className:
                         "text-blue-500 hover:text-blue-600 hover:underline",
                       children: (0, d.O)(
-                        "0xcomingsoon"
+                        "0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6"
                       ),
                     }),
                     (0, l.jsx)(N.$, {
                       disabled: e,
                       onClick: () =>
-                        t("0xcomingsoon"),
+                        t("0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6"),
                       size: "icon",
                       variant: "ghost",
                       className: "h-5 w-5",

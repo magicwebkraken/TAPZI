@@ -174,7 +174,7 @@
                         onClick: () => {
                           A
                             ? g.push("/dashboard")
-                            : g.push("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", { scroll: !0 });
+                            : g.push("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x27e0f917d9df4d1febc7593bffb8bb09c63e44d6", { scroll: !0 });
                         },
                         style: {
                           boxShadow:
