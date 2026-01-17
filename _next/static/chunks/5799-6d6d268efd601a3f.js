@@ -476,17 +476,7 @@
         k = (e) => {
           let {
               menuItems: t = [
-                {
-                  title: "Quick Links",
-                  links: [
-                 
-                    {
-                      text: "Audience",
-                      url: "https://docs.tapziwinner.org/market-and-audience",
-                    },
-                    { text: "Roadmap", url: "https://docs.tapziwinner.org/roadmap" },
-                  ],
-                },
+                
                 {
                   title: "Contact",
                   links: [
