@@ -158,12 +158,7 @@
                           e.name
                         )
                       ),
-                      (0, n.jsx)(s(), {
-                        href: "https://docs.tapziwinner.org/",
-                        target: "_blank",
-                        className: "hover:underline",
-                        children: "Docs",
-                      }),
+                  
                     ],
                   }),
                   (0, n.jsx)("div", { className: "flex-grow" }),
