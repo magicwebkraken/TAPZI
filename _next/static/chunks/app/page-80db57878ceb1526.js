@@ -1362,24 +1362,11 @@
                       asChild: !0,
                       children: (0, a.jsx)(o(), {
                         target: "_blank",
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                         children: "Buy $TAPZI",
                       }),
                     }),
-                    (0, a.jsx)(r.$, {
-                      style: {
-                        boxShadow:
-                          "0px 8px 25px 0px #694DFBA6, 0px -7px 20px 0px #FFFFFF4D inset",
-                      },
-                      asChild: !0,
-                      className:
-                        "rounded-lg bg-white/30 text-white h-12 lg:h-14 text-lg lg:text-xl font-semibold px-6 md:px-10 hover:bg-white/40",
-                      children: (0, a.jsx)(o(), {
-                        target: "_blank",
-                        href: "https://docs.tapziwinner.org/",
-                        children: "Read Docs",
-                      }),
-                    }),
+              
                   ],
                 }),
                 (0, a.jsx)(eu, {

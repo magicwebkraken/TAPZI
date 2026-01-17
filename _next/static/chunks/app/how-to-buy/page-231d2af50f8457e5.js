@@ -88,7 +88,7 @@
                   }),
                 }),
                 (0, l.jsx)(n(), {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                   children: (0, l.jsxs)(a.$, {
                     className:
                       "rounded-lg bg-white/30 text-white h-12 lg:h-14 text-lg lg:text-xl font-semibold px-6 md:px-10 md:min-w-52 hover:bg-white/40",
@@ -638,7 +638,7 @@
                             ],
                           }),
                           (0, l.jsx)(p(), {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                             children: (0, l.jsxs)(h.$, {
                               type: "button",
                               disabled: !c || !L,
@@ -1052,17 +1052,17 @@
                     }),
                     (0, l.jsx)("span", { children: "Contract : " }),
                     (0, l.jsx)("a", {
-                      href: "https://etherscan.io/token/0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6",
+                      href: "https://etherscan.io/token/0xcomingsoon",
                       className:
                         "text-blue-500 hover:text-blue-600 hover:underline",
                       children: (0, d.O)(
-                        "0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6"
+                        "0xcomingsoon"
                       ),
                     }),
                     (0, l.jsx)(N.$, {
                       disabled: e,
                       onClick: () =>
-                        t("0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6"),
+                        t("0xcomingsoon"),
                       size: "icon",
                       variant: "ghost",
                       className: "h-5 w-5",
@@ -1369,7 +1369,7 @@
                         className: "flex items-center gap-4 md:gap-6 mt-4",
                         children: [
                           (0, l.jsx)(d(), {
-                            href: "https://t.me/TapziPlatform",
+                            href: "https://t.me/tapzione",
                             target: "_blank",
                             className: "hover:text-primary-green",
                             children: (0, l.jsx)(c.hZ, {
@@ -1377,7 +1377,7 @@
                             }),
                           }),
                           (0, l.jsx)(d(), {
-                            href: "https://x.com/TapziPlatform",
+                            href: "https://x.com/tapzione",
                             target: "_blank",
                             className: "hover:text-primary-green",
                             children: (0, l.jsx)(c.Fi, {

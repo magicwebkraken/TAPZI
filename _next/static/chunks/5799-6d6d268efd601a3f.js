@@ -448,7 +448,7 @@
       var f = a(30285),
         w = a(24357),
         j = a(82974);
-      let b = "0x5a8908C8B7f0A35F3a08A7A1b93b0c4aC928E5f6";
+      let b = "0xcomingsoon";
       var y = a(27719),
         L = a(66766),
         z = a(10549);
@@ -456,7 +456,7 @@
           (0, l.jsxs)(l.Fragment, {
             children: [
               (0, l.jsx)(r(), {
-                href: "https://t.me/TapziPlatform",
+                href: "https://t.me/tapzione",
                 target: "_blank",
                 className: "hover:text-primary-green",
                 children: (0, l.jsx)(j.hZ, {
@@ -464,7 +464,7 @@
                 }),
               }),
               (0, l.jsx)(r(), {
-                href: "https://x.com/TapziPlatform",
+                href: "https://x.com/tapzione",
                 target: "_blank",
                 className: "hover:text-primary-green",
                 children: (0, l.jsx)(j.Fi, {
@@ -479,10 +479,7 @@
                 {
                   title: "Quick Links",
                   links: [
-                    {
-                      text: "Whitepaper",
-                      url: "https://docs.tapziwinner.org/welcome-to-tapzi",
-                    },
+                 
                     {
                       text: "Audience",
                       url: "https://docs.tapziwinner.org/market-and-audience",
@@ -493,8 +490,8 @@
                 {
                   title: "Contact",
                   links: [
-                    { text: "Twitter/X", url: "https://x.com/TapziPlatform" },
-                    { text: "Community", url: "https://t.me/TapziPlatform" },
+                    { text: "Twitter/X", url: "https://x.com/tapzione" },
+                    { text: "Community", url: "https://t.me/tapzione" },
                   ],
                 },
               ],

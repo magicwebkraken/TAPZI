@@ -308,7 +308,7 @@
           { name: "Home", href: "/" },
           { name: "How to buy", href: "/how-to-buy" },
           { name: "Games", href: "/game" },
-          { name: "Docs", href: "https://docs.tapziwinner.org/" },
+       
         ],
         j = () => {
           let { open: e } = (0, o.o1)(),
