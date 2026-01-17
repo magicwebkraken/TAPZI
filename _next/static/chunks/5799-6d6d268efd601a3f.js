@@ -456,7 +456,7 @@
           (0, l.jsxs)(l.Fragment, {
             children: [
               (0, l.jsx)(r(), {
-                href: "https://t.me/tapzione",
+                href: "https://t.me/tapzi_one",
                 target: "_blank",
                 className: "hover:text-primary-green",
                 children: (0, l.jsx)(j.hZ, {
